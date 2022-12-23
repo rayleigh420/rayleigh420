@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [https://github.com/rayleigh420/PTUDW-20KTPM4-Nhom01-Web](https://github.com/rayleigh420/PTUDW-20KTPM4-Nhom01-Web)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
+</p> -->
 
 =<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
