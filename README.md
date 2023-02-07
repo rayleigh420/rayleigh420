@@ -80,7 +80,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayleigh420&label=Profile%20views&color=0e75b6&style=flat" alt="rayleigh420" /> </p>
 
-- 🔭 I’m currently working on [https://github.com/rayleigh420/PTUDW-20KTPM4-Nhom01-Web](https://github.com/rayleigh420/PTUDW-20KTPM4-Nhom01-Web)
+<!-- - 🔭 I’m currently working on [https://github.com/rayleigh420/PTUDW-20KTPM4-Nhom01-Web](https://github.com/rayleigh420/PTUDW-20KTPM4-Nhom01-Web) -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
