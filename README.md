@@ -114,12 +114,14 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayleigh420&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div> -->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rayleigh420&count_private=true&show_icons=true&theme=algolia&border_radius=20">
-
-<img align="right" width="47%" src="https://streak-stats.demolab.com?user=rayleigh420&count_private=true&theme=algolia&border_radius=20">
-
 <div class="stats" align="center">
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayleigh420&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rayleigh420&count_private=true&show_icons=true&theme=algolia&border_radius=20">
+
+<img align="right" width="47%" src="https://streak-stats.demolab.com?user=rayleigh420&count_private=true&theme=algolia&border_radius=20">
+
+
 
