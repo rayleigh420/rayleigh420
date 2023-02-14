@@ -80,7 +80,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayleigh420&label=Profile%20views&color=0e75b6&style=flat" alt="rayleigh420" /> </p>
 
-- 🔭 I’m currently working on [https://github.com/rayleigh420/ReactJSVite_Authenticates_JWT_Server](https://github.com/rayleigh420/ReactJSVite_Authenticates_JWT_Server)
+- 🔭 I’m currently working on [https://github.com/rayleigh420/ReactJSVite_Authenticates_JWT_Server-Redux-](https://github.com/rayleigh420/ReactJSVite_Authenticates_JWT_Server-Redux-)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
