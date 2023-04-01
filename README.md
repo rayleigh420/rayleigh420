@@ -105,7 +105,7 @@
 | **Web frameworks** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  |
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+### 📈 GitHub Activity Graph
 [![Rayleigh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rayleigh420&theme=github-compact)](https://github.com/rayleigh420/github-readme-activity-graph)
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
