@@ -82,8 +82,8 @@
 
 <!-- - 🔭 I’m currently working on [https://github.com/rayleigh420/ReactJSVite_Authenticates_JWT_Server-Redux-](https://github.com/rayleigh420/ReactJSVite_Authenticates_JWT_Server-Redux-) -->
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me: nhatduy0409@gmail.com</h3>
+<!-- <p align="left">
 </p> -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
