@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lê Nhất Duy</h1>
-<h3 align="center">A student at VNUHCM - University Of Sciences majoring in Software Engineering</h3>
+<h3 align="center">A student at VNUHCM - University Of Sciences Majoring in Software Engineering</h3>
 
 <div>
 
