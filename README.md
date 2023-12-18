@@ -106,7 +106,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph
-[![Rayleigh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rayleigh420&theme=github-compact)](https://github.com/rayleigh420/github-readme-activity-graph)
+[![Rayleigh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayleigh420&theme=github-compact)](https://github.com/rayleigh420/github-readme-activity-graph)
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
@@ -130,7 +130,7 @@
 
 <div class="stats" align="center">
 
-![Most Used Languages](https://github-readme-activity-graph.vercel.app/graph?username=rayleigh420&layout=compact&show_icons=true&theme=nightowl&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayleigh420&layout=compact&show_icons=true&theme=nightowl&border_radius=20)
 </div>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rayleigh420&count_private=true&show_icons=true&theme=nightowl&border_radius=20">
